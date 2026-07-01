@@ -17,6 +17,9 @@ Analyze a retail sales dataset using SQL to understand its structure, validate t
 
 ## Key Findings
 The West region generated the highest sales.
+
 Technology was the highest-performing category by profit.
+
 A small number of customers contributed a large share of total sales.
+
 Higher discounts generally corresponded to lower average profit.
